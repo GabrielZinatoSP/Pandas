@@ -1,4 +1,4 @@
-<img width="300" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"><img width="300" height="200" src="https://matplotlib.org/_static/logo2_compressed.svg"><img width="300" height="200" src="http://seaborn.pydata.org/_images/logo-wide-lightbg.svg">
+<img width="250" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"><img width="250" height="200" src="https://matplotlib.org/_static/logo2_compressed.svg"><img width="250" height="200" src="http://seaborn.pydata.org/_images/logo-wide-lightbg.svg">
   
 Pandas is a very powerful toolkit for data analysis and manipulation. If you've never heard of it and you work with Excel, I recommend you take some minutes to read about it:  
 
