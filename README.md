@@ -8,9 +8,13 @@ As for visualization, there are many options but for now I'll be working with Ma
 
 ## My Pandas projects
 
-1) Data manipulation exercises using 4 datasets. Graphs plotted with Matplot and Seaborn.
+1) Data manipulation exercises using 4 datasets. Charts plotted with Matplot and Seaborn.
 * [View Notebook](https://github.com/GabrielZinatoSP/Pandas/blob/MASTER/Manipulation%20of%20data%20and%20charts%20-%20Exercises/Notebook.ipynb)
 * [View All Files](https://github.com/GabrielZinatoSP/Pandas/tree/MASTER/Manipulation%20of%20data%20and%20charts%20-%20Exercises)
+
+2) Data manipulation and analysis using IMDb datasets and Pandas. Matplot and Seaborn were used to plot the charts.
+* [View datasets](https://drive.google.com/drive/folders/1TyCA7zGoLJV5Z8HlYkUa0Qc0WQB6w-OB) The datasets were too big for Github so they're on Google Drive.
+* [View Notebook](https://github.com/GabrielZinatoSP/Pandas/blob/MASTER/IMDb%20Project%20-%20Let's%20Code%20Academy/Pandas%20Miniproject%20-%20Let's%20Code%20Academy.ipynb)
   
   
   
